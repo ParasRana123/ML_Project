@@ -1,0 +1,5 @@
+AGENDA:
+
+1: Setting Up the Github Repository
+2: Making the setup.py file
+3: requirements.txt
